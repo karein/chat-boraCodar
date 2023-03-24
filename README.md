@@ -1,3 +1,4 @@
+Layout da tela feito seguindo tutorial.
 ## DESAFIO 
 Criar um layout simples de uma tela de chat responsiva.  
 
